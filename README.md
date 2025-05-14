@@ -7,3 +7,5 @@
 7. When you are done scanning, open the .sql file that will be generated in the same directory.
 8. Open IQ and go to Utilities > Tools > Database Utilities, paste the file's contents here and click Run SQL
 9. Print labels as normal
+
+NOTE: It is advised that you repeat copying the stock and exporting to avoid missing products. This was only tested on a Cipherlab 8231 Scanner and my differ on other models.
